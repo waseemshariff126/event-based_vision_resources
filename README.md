@@ -2580,20 +2580,20 @@ IEEE Access, vol. 11, pp. 76964-76976, 2023.
 <a name="Drwosiness_or_yawn"></a>
 ### Driver Drowsiness or Yawn
 - <a name="Chen20jsen"></a>Chen, G., Hong, L., Dong, J., Liu, P., Conradt, J. and Knoll, A.,  
-  *[EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor](https://doi.org/10.1109/JSEN.2020.2973049)*,  
+*[EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor](https://doi.org/10.1109/JSEN.2020.2973049)*,  
 IEEE Sensors Journal, vol. 20, no. 11, pp. 6170-6181, 1 June1, 2020.
 - <a name="Keilty23access"></a>Kielty, P., Dilmaghani, M.S., Shariff, W., Ryan, C., Lemley, J. and Corcoran, P.,  
- *[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera](https://doi.org/10.1109/ACCESS.2023.3312190)*,  
+*[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera](https://doi.org/10.1109/ACCESS.2023.3312190)*,  
 IEEE Access, vol. 11, pp. 96363-96373, 2023.
 
 <a name="distraction_detecton"></a>
 ### Driver Distraction
 - <a name="Yang22mfi"></a>Yang, C., Liu, P., Chen, G., Liu, Z., Wu, Y. and Knoll, A.,  
-  *[Event-based Driver Distraction Detection and Action Recognition](https://doi.org/10.1109/MFI55806.2022.9913871)*,  
+*[Event-based Driver Distraction Detection and Action Recognition](https://doi.org/10.1109/MFI55806.2022.9913871)*,  
 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), Bedford, United Kingdom, pp. 1-7, 2022.
 - <a name="Shariff23ojvt"></a>Shariff, W., Dilmaghani, M.S., Kielty, P., Lemley, J., Farooq, M.A., Khan, F. and Corcoran, P.,  
-  *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
-  IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
+*[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
+IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
 
 <br><br>
 <a name="datasets"></a>
